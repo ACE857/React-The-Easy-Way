@@ -15,3 +15,5 @@ let name = "Bisht"
 console.log('local scope - ', name) 
 }
 console.log('global scope - ', name) 
+
+// same is the case with loops
